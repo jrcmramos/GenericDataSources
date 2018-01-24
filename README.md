@@ -14,7 +14,7 @@ This solution proposes a different approach to simplify the definition of your s
 Definition of the view models for sections and rows and definition of the cell type for each kind.
 
 ## Example
-####Note 
+#### Note 
 The cell identifier can dependent on the cell type or can be improved with some other approach. I decided to not include it here because we are not performing cell registration and it depends on that.
 
 ```
