@@ -2,6 +2,7 @@
 [![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](https://developer.apple.com/swift/)
 [![License MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)](https://opensource.org/licenses/MIT)
 ![platforms](https://img.shields.io/badge/platforms-iOS%20-lightgrey.svg)
+![Carthage compatible](https://camo.githubusercontent.com/3dc8a44a2c3f7ccd5418008d1295aae48466c141/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43617274686167652d636f6d70617469626c652d3442433531442e7376673f7374796c653d666c6174)
 
 Implementation of generic data sources for both collection and table views.  
 This solution was based on the existing Florian Kugler's [approach](https://github.com/objcio/S01E26-generic-table-view-controllers-part-2)
